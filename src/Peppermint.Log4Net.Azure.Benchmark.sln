@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peppermint.Log4Net.Azure.Benchmark", "Peppermint.Log4Net.Azure.Benchmark\Peppermint.Log4Net.Azure.Benchmark.csproj", "{5701E984-8FB2-4A21-8442-F85F38C99A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peppermint.Log4Net.Azure.Benchmark.Tests", "Peppermint.Log4Net.Azure.Benchmark.Tests\Peppermint.Log4Net.Azure.Benchmark.Tests.csproj", "{1A052187-F9A7-46EE-BAFE-5EA1D5A792B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peppermint.Log4Net.Azure.Benchmark.Core", "Peppermint.Log4Net.Azure.Benchmark.Core\Peppermint.Log4Net.Azure.Benchmark.Core.csproj", "{AA55E5DA-8A2F-48A6-985D-1769291D2387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5701E984-8FB2-4A21-8442-F85F38C99A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5701E984-8FB2-4A21-8442-F85F38C99A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5701E984-8FB2-4A21-8442-F85F38C99A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5701E984-8FB2-4A21-8442-F85F38C99A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A052187-F9A7-46EE-BAFE-5EA1D5A792B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A052187-F9A7-46EE-BAFE-5EA1D5A792B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A052187-F9A7-46EE-BAFE-5EA1D5A792B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A052187-F9A7-46EE-BAFE-5EA1D5A792B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA55E5DA-8A2F-48A6-985D-1769291D2387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA55E5DA-8A2F-48A6-985D-1769291D2387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA55E5DA-8A2F-48A6-985D-1769291D2387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA55E5DA-8A2F-48A6-985D-1769291D2387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

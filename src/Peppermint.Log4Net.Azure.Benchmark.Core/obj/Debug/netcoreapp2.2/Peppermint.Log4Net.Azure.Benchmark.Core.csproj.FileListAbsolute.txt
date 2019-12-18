@@ -1,0 +1,9 @@
+/Users/alexandrejulien/RiderProjects/Peppermint.Log4Net.Azure.Benchmark/Peppermint.Log4Net.Azure.Benchmark.Core/bin/Debug/netcoreapp2.2/Peppermint.Log4Net.Azure.Benchmark.Core.deps.json
+/Users/alexandrejulien/RiderProjects/Peppermint.Log4Net.Azure.Benchmark/Peppermint.Log4Net.Azure.Benchmark.Core/bin/Debug/netcoreapp2.2/Peppermint.Log4Net.Azure.Benchmark.Core.dll
+/Users/alexandrejulien/RiderProjects/Peppermint.Log4Net.Azure.Benchmark/Peppermint.Log4Net.Azure.Benchmark.Core/bin/Debug/netcoreapp2.2/Peppermint.Log4Net.Azure.Benchmark.Core.pdb
+/Users/alexandrejulien/RiderProjects/Peppermint.Log4Net.Azure.Benchmark/Peppermint.Log4Net.Azure.Benchmark.Core/obj/Debug/netcoreapp2.2/Peppermint.Log4Net.Azure.Benchmark.Core.csprojAssemblyReference.cache
+/Users/alexandrejulien/RiderProjects/Peppermint.Log4Net.Azure.Benchmark/Peppermint.Log4Net.Azure.Benchmark.Core/obj/Debug/netcoreapp2.2/Peppermint.Log4Net.Azure.Benchmark.Core.csproj.CoreCompileInputs.cache
+/Users/alexandrejulien/RiderProjects/Peppermint.Log4Net.Azure.Benchmark/Peppermint.Log4Net.Azure.Benchmark.Core/obj/Debug/netcoreapp2.2/Peppermint.Log4Net.Azure.Benchmark.Core.AssemblyInfoInputs.cache
+/Users/alexandrejulien/RiderProjects/Peppermint.Log4Net.Azure.Benchmark/Peppermint.Log4Net.Azure.Benchmark.Core/obj/Debug/netcoreapp2.2/Peppermint.Log4Net.Azure.Benchmark.Core.AssemblyInfo.cs
+/Users/alexandrejulien/RiderProjects/Peppermint.Log4Net.Azure.Benchmark/Peppermint.Log4Net.Azure.Benchmark.Core/obj/Debug/netcoreapp2.2/Peppermint.Log4Net.Azure.Benchmark.Core.dll
+/Users/alexandrejulien/RiderProjects/Peppermint.Log4Net.Azure.Benchmark/Peppermint.Log4Net.Azure.Benchmark.Core/obj/Debug/netcoreapp2.2/Peppermint.Log4Net.Azure.Benchmark.Core.pdb

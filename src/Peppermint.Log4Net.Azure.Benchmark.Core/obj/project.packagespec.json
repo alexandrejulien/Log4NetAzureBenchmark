@@ -1,0 +1,66 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/alexandrejulien/RiderProjects/Peppermint.Log4Net.Azure.Benchmark/Peppermint.Log4Net.Azure.Benchmark.Core/Peppermint.Log4Net.Azure.Benchmark.Core.csproj",
+    "projectName": "Peppermint.Log4Net.Azure.Benchmark.Core",
+    "projectPath": "/Users/alexandrejulien/RiderProjects/Peppermint.Log4Net.Azure.Benchmark/Peppermint.Log4Net.Azure.Benchmark.Core/Peppermint.Log4Net.Azure.Benchmark.Core.csproj",
+    "outputPath": "/Users/alexandrejulien/RiderProjects/Peppermint.Log4Net.Azure.Benchmark/Peppermint.Log4Net.Azure.Benchmark.Core/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.Azure.KeyVault.Core": {
+          "target": "Package",
+          "version": "[3.0.3, )"
+        },
+        "Microsoft.Azure.Storage.Blob": {
+          "target": "Package",
+          "version": "[10.0.3, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "WindowsAzure.Storage": {
+          "target": "Package",
+          "version": "[9.3.3, )"
+        },
+        "log4net": {
+          "target": "Package",
+          "version": "[2.0.8, )"
+        },
+        "log4net.Appender.Azure.Core": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
